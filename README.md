@@ -1,8 +1,7 @@
 # LugnaRSS
 
-<br/>
-<br/>
+Explains all the complexities of todays food
 
-Requierments
+## Requierments
 
 [feedparser](https://github.com/kurtmckee/feedparser)
